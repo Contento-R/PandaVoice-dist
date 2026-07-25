@@ -1,0 +1,7 @@
+{
+  "version": "v1.8.7",
+  "name": "PandaVoiceApp-v1.8.7-update.zip",
+  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.8.7-update.zip",
+  "sha256": "6941e60266061240691eb476d9e24acd942153db77b55b3cc8f8bed65655f7e1",
+  "notes": "Автообновление из публичного репозитория; автозапуск сам ведёт на текущую папку; замена текста по F8 ждёт активации окна."
+}
