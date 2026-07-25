@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.1",
-  "name": "PandaVoiceApp-v1.9.1-update.zip",
-  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.1-update.zip",
-  "sha256": "834ad1922f24ee7863831d5247cfa320b36dda53dd981033b4b79229e3c21581",
-  "notes": "Приложение само находит новую версию, скачивает её и предлагает установку. Автозапуск ведёт на текущую папку; замена текста по F8 работает надёжно."
+  "version": "v1.9.2",
+  "name": "PandaVoiceApp-v1.9.2-update.zip",
+  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.2-update.zip",
+  "sha256": "a063ab80ed7f224fe29f00a8ecab8c7822fc78a2feb39a10b9934a689b5ba6ce",
+  "notes": "Приложение само находит новую версию, скачивает её в фоне и предлагает установку. Автозапуск ведёт на текущую папку; замена текста по F8 работает надёжно."
 }
