@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.2",
-  "name": "PandaVoiceApp-v1.9.2-update.zip",
-  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.2-update.zip",
-  "sha256": "a063ab80ed7f224fe29f00a8ecab8c7822fc78a2feb39a10b9934a689b5ba6ce",
-  "notes": "Приложение само находит новую версию, скачивает её в фоне и предлагает установку. Автозапуск ведёт на текущую папку; замена текста по F8 работает надёжно."
+  "version": "v1.9.3",
+  "name": "PandaVoiceApp-v1.9.3-update.zip",
+  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.3-update.zip",
+  "sha256": "8b25aeb524a8a4eb91bf83f43bfd75d7087dc8eb1c4091d0cc1529dfad8ccd4d",
+  "notes": "Правки окончаний больше не ломают текст: «терминала» не превращается в «терминалу». Уже накопленные вредные замены вычищаются автоматически."
 }
