@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.3",
-  "name": "PandaVoiceApp-v1.9.3-update.zip",
-  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.3-update.zip",
-  "sha256": "8b25aeb524a8a4eb91bf83f43bfd75d7087dc8eb1c4091d0cc1529dfad8ccd4d",
-  "notes": "Правки окончаний больше не ломают текст: «терминала» не превращается в «терминалу». Уже накопленные вредные замены вычищаются автоматически."
+  "version": "v1.9.4",
+  "name": "PandaVoiceApp-v1.9.4-update.zip",
+  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.4-update.zip",
+  "sha256": "3aaab2e763d9ddb57c3d6ac0c4140576e2d867235c5f068ec7a580df96561c8e",
+  "notes": "Кнопка «Обновление» сама скачивает новую версию, проверка повторяется каждые 6 часов. Пунктуация: точка сохраняется на конце фразы, а не теряется на стыке фрагментов. Правки окончаний больше не ломают текст."
 }
