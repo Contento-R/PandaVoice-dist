@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.8",
-  "name": "PandaVoiceApp-v1.9.8-update.zip",
-  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.8-update.zip",
-  "sha256": "4dbde7f05a57bfe56a6c516df9a0125edcab06e2723c9f51aced5f69c7111383",
-  "notes": "Распознавание больше не падает на несовпадении типов: если приведение не срабатывает, модель автоматически переходит в float32. Хоткеи работают сразу после запуска — во время загрузки модели приложение честно об этом сообщает."
+  "version": "v1.9.13",
+  "name": "PandaVoiceApp-v1.9.13-update.zip",
+  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.13-update.zip",
+  "sha256": "d3a4bfcc3dcbc5aa678455f5fd5bf487bc67c59cf068b3c3838c85ed7e0bd8b9",
+  "notes": "v1.9.13: первый релиз с рабочим DIST_TOKEN — канал раздачи снова наполняется"
 }
