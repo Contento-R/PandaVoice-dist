@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.6",
-  "name": "PandaVoiceApp-v1.9.6-update.zip",
-  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.6-update.zip",
-  "sha256": "f1447dc810e784214ef74bb8fd72f2bb0875bd7a1df62f7edd30acc6b7221015",
-  "notes": "Антивирус больше не спрашивает разрешение каждый запуск: приложение работает под своим именем PandaVoice.exe. В Настройках — кнопка «Для антивируса…» с точным путём."
+  "version": "v1.9.7",
+  "name": "PandaVoiceApp-v1.9.7-update.zip",
+  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.7-update.zip",
+  "sha256": "1a506f4d2115655f86245f30a33fbe68d4a7f0c98eeda7c8bc310cbe15c73f80",
+  "notes": "ВАЖНО: исправлено падение распознавания на свежих установках («Input type (float) and bias type (BFloat16)»). Плюс своё имя процесса PandaVoice.exe для антивируса."
 }
