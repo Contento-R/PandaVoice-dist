@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.15",
-  "name": "PandaVoiceApp-v1.9.15-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.15/PandaVoiceApp-v1.9.15-update.zip",
-  "sha256": "0a4275ce9975af49302a33af6979305550c293ca95f65c78eb8f4a819a818803",
-  "notes": "v1.9.15: аудит скорости и качества — пост-стоп ≤3-4 c, пунктуация без швов"
+  "version": "v1.9.16",
+  "name": "PandaVoiceApp-v1.9.16-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.16/PandaVoiceApp-v1.9.16-update.zip",
+  "sha256": "ed989412a9e07b8d105981eb1827125cf3d92b3b7dfb9da7f237464f652f0ab0",
+  "notes": "v1.9.16: длина блока подстраивается под скорость машины — меньше швов при том же ожидании"
 }
