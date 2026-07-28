@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.14",
-  "name": "PandaVoiceApp-v1.9.14-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.14/PandaVoiceApp-v1.9.14-update.zip",
-  "sha256": "ce18a97785242eb80c8da8b06a5fde9cda119299b13c57a41b59a02639dca5d3",
-  "notes": "v1.9.14: раздача обновлений релизами PandaVoice-dist, а не файлами в git"
+  "version": "v1.9.15",
+  "name": "PandaVoiceApp-v1.9.15-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.15/PandaVoiceApp-v1.9.15-update.zip",
+  "sha256": "0a4275ce9975af49302a33af6979305550c293ca95f65c78eb8f4a819a818803",
+  "notes": "v1.9.15: аудит скорости и качества — пост-стоп ≤3-4 c, пунктуация без швов"
 }
