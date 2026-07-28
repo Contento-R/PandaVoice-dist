@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.13",
-  "name": "PandaVoiceApp-v1.9.13-update.zip",
-  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.13-update.zip",
-  "sha256": "d3a4bfcc3dcbc5aa678455f5fd5bf487bc67c59cf068b3c3838c85ed7e0bd8b9",
-  "notes": "v1.9.13: первый релиз с рабочим DIST_TOKEN — канал раздачи снова наполняется"
+  "version": "v1.9.14",
+  "name": "PandaVoiceApp-v1.9.14-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.14/PandaVoiceApp-v1.9.14-update.zip",
+  "sha256": "ce18a97785242eb80c8da8b06a5fde9cda119299b13c57a41b59a02639dca5d3",
+  "notes": "v1.9.14: раздача обновлений релизами PandaVoice-dist, а не файлами в git"
 }
