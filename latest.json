@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.16",
-  "name": "PandaVoiceApp-v1.9.16-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.16/PandaVoiceApp-v1.9.16-update.zip",
-  "sha256": "ed989412a9e07b8d105981eb1827125cf3d92b3b7dfb9da7f237464f652f0ab0",
-  "notes": "v1.9.16: длина блока подстраивается под скорость машины — меньше швов при том же ожидании"
+  "version": "v1.9.17",
+  "name": "PandaVoiceApp-v1.9.17-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.17/PandaVoiceApp-v1.9.17-update.zip",
+  "sha256": "88e4e65fcf2bfb60b7339a4241f8c4c1b702fee8235c9eb0dcf397aa6606d26f",
+  "notes": "v1.9.17: колонки приглушаются на время диктовки"
 }
