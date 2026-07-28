@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.5",
-  "name": "PandaVoiceApp-v1.9.5-update.zip",
-  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.5-update.zip",
-  "sha256": "369e9e829cba7ff388d42d20a8fb79872f7785d3755516535271080d5a5d7f95",
-  "notes": "«Идеальный финал» теперь даёт идеальную пунктуацию (раньше работал во вред). Термины не теряют регистр (iPhone, pandaX), числа и местоимения не подменяются глобально, аббревиатуры не переводятся в строчные. Кнопка «Обновление» сама качает новую версию, проверка раз в 6 часов."
+  "version": "v1.9.6",
+  "name": "PandaVoiceApp-v1.9.6-update.zip",
+  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.6-update.zip",
+  "sha256": "f1447dc810e784214ef74bb8fd72f2bb0875bd7a1df62f7edd30acc6b7221015",
+  "notes": "Антивирус больше не спрашивает разрешение каждый запуск: приложение работает под своим именем PandaVoice.exe. В Настройках — кнопка «Для антивируса…» с точным путём."
 }
