@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.7",
-  "name": "PandaVoiceApp-v1.9.7-update.zip",
-  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.7-update.zip",
-  "sha256": "1a506f4d2115655f86245f30a33fbe68d4a7f0c98eeda7c8bc310cbe15c73f80",
-  "notes": "ВАЖНО: исправлено падение распознавания на свежих установках («Input type (float) and bias type (BFloat16)»). Плюс своё имя процесса PandaVoice.exe для антивируса."
+  "version": "v1.9.8",
+  "name": "PandaVoiceApp-v1.9.8-update.zip",
+  "url": "https://raw.githubusercontent.com/Contento-R/PandaVoice-dist/main/updates/PandaVoiceApp-v1.9.8-update.zip",
+  "sha256": "4dbde7f05a57bfe56a6c516df9a0125edcab06e2723c9f51aced5f69c7111383",
+  "notes": "Распознавание больше не падает на несовпадении типов: если приведение не срабатывает, модель автоматически переходит в float32. Хоткеи работают сразу после запуска — во время загрузки модели приложение честно об этом сообщает."
 }
