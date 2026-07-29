@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.17",
-  "name": "PandaVoiceApp-v1.9.17-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.17/PandaVoiceApp-v1.9.17-update.zip",
-  "sha256": "88e4e65fcf2bfb60b7339a4241f8c4c1b702fee8235c9eb0dcf397aa6606d26f",
-  "notes": "v1.9.17: колонки приглушаются на время диктовки"
+  "version": "v1.9.18",
+  "name": "PandaVoiceApp-v1.9.18-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.18/PandaVoiceApp-v1.9.18-update.zip",
+  "sha256": "5e471e9964e5d827b07f03ba88fd8cb463c87cdd368ae1af176fa13075bc03d1",
+  "notes": "v1.9.18: Ctrl+V на русской раскладке и надёжная замена текста после исправления"
 }
