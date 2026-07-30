@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.18",
-  "name": "PandaVoiceApp-v1.9.18-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.18/PandaVoiceApp-v1.9.18-update.zip",
-  "sha256": "5e471e9964e5d827b07f03ba88fd8cb463c87cdd368ae1af176fa13075bc03d1",
-  "notes": "v1.9.18: Ctrl+V на русской раскладке и надёжная замена текста после исправления"
+  "version": "v1.9.19",
+  "name": "PandaVoiceApp-v1.9.19-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.19/PandaVoiceApp-v1.9.19-update.zip",
+  "sha256": "d46a08cc43e46b9067e69143f86683823861c86aa5a3f5c8999be7b39a752b2a",
+  "notes": "v1.9.19: числа пишутся цифрами"
 }
