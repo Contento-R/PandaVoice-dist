@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.21",
-  "name": "PandaVoiceApp-v1.9.21-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.21/PandaVoiceApp-v1.9.21-update.zip",
-  "sha256": "25fd955a1688d6a5cfa80f3ad79744f3445f075399f57c817f894f013e12a21c",
-  "notes": "v1.9.21: самообучение — автолексикон из истории и интернет-проверка слов"
+  "version": "v1.9.22",
+  "name": "PandaVoiceApp-v1.9.22-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.22/PandaVoiceApp-v1.9.22-update.zip",
+  "sha256": "42d8bd32723f6d703e786962709f3867daf86b3db07f6aef9832d856c9fbac34",
+  "notes": "v1.9.22: самоаудит — аудио хранится и перепроверяется в простое"
 }
