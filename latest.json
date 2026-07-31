@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.24",
-  "name": "PandaVoiceApp-v1.9.24-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.24/PandaVoiceApp-v1.9.24-update.zip",
-  "sha256": "c56a3e5f1f7cfd8934621cce4b12c7108659b0a6867bc99d19f9d45726c330cc",
-  "notes": "v1.9.24: Аура — вкладки настроек, быстрые тумблеры на главной, память окна, защита от нехватки диска"
+  "version": "v1.9.25",
+  "name": "PandaVoiceApp-v1.9.25-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.25/PandaVoiceApp-v1.9.25-update.zip",
+  "sha256": "51bb224eaa7d92c406e973b0692b40bab849e684e05529be13728024eb47d1f2",
+  "notes": "v1.9.25: красное предупреждение на главной — самообучение стоит из-за диска"
 }
