@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.22",
-  "name": "PandaVoiceApp-v1.9.22-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.22/PandaVoiceApp-v1.9.22-update.zip",
-  "sha256": "42d8bd32723f6d703e786962709f3867daf86b3db07f6aef9832d856c9fbac34",
-  "notes": "v1.9.22: самоаудит — аудио хранится и перепроверяется в простое"
+  "version": "v1.9.23",
+  "name": "PandaVoiceApp-v1.9.23-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.23/PandaVoiceApp-v1.9.23-update.zip",
+  "sha256": "46f74085d5206e8c38c229ba56f1a9b988c95808e21c60f0085f22068e98d2f7",
+  "notes": "v1.9.23: Аура — основной интерфейс; виджет записи починен, настройки в паритете"
 }
