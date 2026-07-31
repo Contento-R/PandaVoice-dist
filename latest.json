@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.20",
-  "name": "PandaVoiceApp-v1.9.20-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.20/PandaVoiceApp-v1.9.20-update.zip",
-  "sha256": "2f6a870b47f41f9411450ffb2d696a5bcf7ee520dffb5c1c67bc6a516773851b",
-  "notes": "v1.9.20: замена текста по F8 работает мгновенно и не портит поле"
+  "version": "v1.9.21",
+  "name": "PandaVoiceApp-v1.9.21-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.21/PandaVoiceApp-v1.9.21-update.zip",
+  "sha256": "25fd955a1688d6a5cfa80f3ad79744f3445f075399f57c817f894f013e12a21c",
+  "notes": "v1.9.21: самообучение — автолексикон из истории и интернет-проверка слов"
 }
