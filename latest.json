@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.25",
-  "name": "PandaVoiceApp-v1.9.25-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.25/PandaVoiceApp-v1.9.25-update.zip",
-  "sha256": "51bb224eaa7d92c406e973b0692b40bab849e684e05529be13728024eb47d1f2",
-  "notes": "v1.9.25: красное предупреждение на главной — самообучение стоит из-за диска"
+  "version": "v1.9.26",
+  "name": "PandaVoiceApp-v1.9.26-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.26/PandaVoiceApp-v1.9.26-update.zip",
+  "sha256": "a3e475350582190a3e107e586d5fd71647554bdf6002650496dc4c52dc4aa051",
+  "notes": "v1.9.26: горячие клавиши в Ауре + контур лицензирования (выключен)"
 }
