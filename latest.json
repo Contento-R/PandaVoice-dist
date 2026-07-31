@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.23",
-  "name": "PandaVoiceApp-v1.9.23-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.23/PandaVoiceApp-v1.9.23-update.zip",
-  "sha256": "46f74085d5206e8c38c229ba56f1a9b988c95808e21c60f0085f22068e98d2f7",
-  "notes": "v1.9.23: Аура — основной интерфейс; виджет записи починен, настройки в паритете"
+  "version": "v1.9.24",
+  "name": "PandaVoiceApp-v1.9.24-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.24/PandaVoiceApp-v1.9.24-update.zip",
+  "sha256": "c56a3e5f1f7cfd8934621cce4b12c7108659b0a6867bc99d19f9d45726c330cc",
+  "notes": "v1.9.24: Аура — вкладки настроек, быстрые тумблеры на главной, память окна, защита от нехватки диска"
 }
