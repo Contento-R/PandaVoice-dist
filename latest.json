@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.26",
-  "name": "PandaVoiceApp-v1.9.26-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.26/PandaVoiceApp-v1.9.26-update.zip",
-  "sha256": "a3e475350582190a3e107e586d5fd71647554bdf6002650496dc4c52dc4aa051",
-  "notes": "v1.9.26: горячие клавиши в Ауре + контур лицензирования (выключен)"
+  "version": "v1.9.27",
+  "name": "PandaVoiceApp-v1.9.27-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.27/PandaVoiceApp-v1.9.27-update.zip",
+  "sha256": "c3ff1f345e8b22a78c723ab6067f2ac5f87c8f40faec2a7a9f2fd70cf8e10984",
+  "notes": "v1.9.27: измеримая динамика обучения + перенос всей классики в Ауру"
 }
