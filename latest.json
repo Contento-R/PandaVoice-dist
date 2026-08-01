@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.33",
-  "name": "PandaVoiceApp-v1.9.33-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.33/PandaVoiceApp-v1.9.33-update.zip",
-  "sha256": "19e6396a33c2bb62cadff3c2e0f1acf3e95936bfdecd9e3e474c737bed9bf326",
-  "notes": "v1.9.33: проба выделения одним символом + кнопка тех. журнала"
+  "version": "v1.9.34",
+  "name": "PandaVoiceApp-v1.9.34-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.34/PandaVoiceApp-v1.9.34-update.zip",
+  "sha256": "1d0689a1d56b99e73ecada24dc6f39406c2a47a40312d79d4fd660fb2d1a1910",
+  "notes": "v1.9.34: адрес сервера из конфига + экономия записей в KV"
 }
