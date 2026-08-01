@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.43",
-  "name": "PandaVoiceApp-v1.9.43-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.43/PandaVoiceApp-v1.9.43-update.zip",
-  "sha256": "41e1f9589e3824ccc5bf1a43a16591c2795276a02aac8a54000fb8b398822637",
-  "notes": "v1.9.43: install.sh больше не требует уже установленный portaudio"
+  "version": "v1.9.44",
+  "name": "PandaVoiceApp-v1.9.44-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.44/PandaVoiceApp-v1.9.44-update.zip",
+  "sha256": "fd7c6df468007ebb9dba9210afd5619776e7538e221a6d5d461088a6a2ef0b77",
+  "notes": "v1.9.44: исправлен запасной поиск portaudio в install.sh"
 }
