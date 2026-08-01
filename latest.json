@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.30",
-  "name": "PandaVoiceApp-v1.9.30-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.30/PandaVoiceApp-v1.9.30-update.zip",
-  "sha256": "970ad0987b5c4d93d7a2e06bed0b430ff59c099c2dedb65ffea0586c2c4b5280",
-  "notes": "v1.9.30: найдена и исправлена причина дубля при замене по F8"
+  "version": "v1.9.31",
+  "name": "PandaVoiceApp-v1.9.31-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.31/PandaVoiceApp-v1.9.31-update.zip",
+  "sha256": "0ba208b7b39e62c764782dac64e74bc83ad26bb55d221403cfe303f4d1d97f77",
+  "notes": "v1.9.31: замена в браузере — опрос буфера вместо фиксированных 150 мс"
 }
