@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.35",
-  "name": "PandaVoiceApp-v1.9.35-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.35/PandaVoiceApp-v1.9.35-update.zip",
-  "sha256": "8d5115af4b6957450ef8fe5ddbc554807105bdc1a060044e70b58bc756b779ff",
-  "notes": "v1.9.35: вход с главного экрана, точные ошибки связи, инструкция по OAuth"
+  "version": "v1.9.36",
+  "name": "PandaVoiceApp-v1.9.36-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.36/PandaVoiceApp-v1.9.36-update.zip",
+  "sha256": "67c737469a9e93f55e9374cad78fefb6ccea437cbcbe9d4cf8473007c1ccf829",
+  "notes": "v1.9.36: несколько адресов сервера с автопереключением"
 }
