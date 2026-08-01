@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.54",
-  "name": "PandaVoiceApp-v1.9.54-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.54/PandaVoiceApp-v1.9.54-update.zip",
-  "sha256": "1f013547756265c91c0dbfcaf95311d0d7817ee67790b45b9d1aca90f6de6288",
-  "notes": "v1.9.54: install.sh требует libxcb-cursor0 заранее"
+  "version": "v1.9.55",
+  "name": "PandaVoiceApp-v1.9.55-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.55/PandaVoiceApp-v1.9.55-update.zip",
+  "sha256": "d3123e53937f7b12ecf2ad0d9cf7790810ead00602db3c7ca9f102942aa2a67d",
+  "notes": "v1.9.55: антидребезг комбинации хоткея на Linux"
 }
