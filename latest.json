@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.37",
-  "name": "PandaVoiceApp-v1.9.37-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.37/PandaVoiceApp-v1.9.37-update.zip",
-  "sha256": "2a8e1714435b1fc0d04d3358d05e12dd8ec8bc36798f81c3389c267073c38f83",
-  "notes": "v1.9.37: адрес сервера обновлён под новый субдомен + миграция конфига"
+  "version": "v1.9.38",
+  "name": "PandaVoiceApp-v1.9.38-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.38/PandaVoiceApp-v1.9.38-update.zip",
+  "sha256": "2dd46c654f76cda0518476c73ba7d05e2e50c6280d5ecd8c188f2be26f5f0dd3",
+  "notes": "v1.9.38: пароль для аккаунтов, заведённых быстрым входом"
 }
