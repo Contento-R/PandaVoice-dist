@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.47",
-  "name": "PandaVoiceApp-v1.9.47-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.47/PandaVoiceApp-v1.9.47-update.zip",
-  "sha256": "d310303ed41de22e04cefde2b2ef7e2ef2b1e72ba40d55d3841e77cf1b3f39dd",
-  "notes": "v1.9.47: переключение раскладки силами приложения (Linux/X11)"
+  "version": "v1.9.48",
+  "name": "PandaVoiceApp-v1.9.48-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.48/PandaVoiceApp-v1.9.48-update.zip",
+  "sha256": "a132150d4868462304acb080ccbd109a6c5642614dea2acf61a6ce3bdd175e8f",
+  "notes": "v1.9.48: install.sh заранее проверяет заголовки Python и компилятор"
 }
