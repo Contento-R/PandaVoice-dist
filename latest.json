@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.46",
-  "name": "PandaVoiceApp-v1.9.46-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.46/PandaVoiceApp-v1.9.46-update.zip",
-  "sha256": "15c19dabfce731bd9a967f92af8197d8bbe4560064c7b63c8fdd6c89f630ab65",
-  "notes": "v1.9.46: комбинации горячих клавиш на Linux"
+  "version": "v1.9.47",
+  "name": "PandaVoiceApp-v1.9.47-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.47/PandaVoiceApp-v1.9.47-update.zip",
+  "sha256": "d310303ed41de22e04cefde2b2ef7e2ef2b1e72ba40d55d3841e77cf1b3f39dd",
+  "notes": "v1.9.47: переключение раскладки силами приложения (Linux/X11)"
 }
