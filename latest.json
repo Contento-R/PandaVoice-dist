@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.56",
-  "name": "PandaVoiceApp-v1.9.56-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.56/PandaVoiceApp-v1.9.56-update.zip",
-  "sha256": "48b9f758f7027f41e4859ae7083931485242cd7062fed57cb0d92677fcd5ec23",
-  "notes": "v1.9.56: перезапуск снова работает + модель Whisper Small для слабых машин"
+  "version": "v1.9.57",
+  "name": "PandaVoiceApp-v1.9.57-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.57/PandaVoiceApp-v1.9.57-update.zip",
+  "sha256": "2ecf8fbf9dc53a2bb2d9271e99ed255cb9b55b307024ba5b9b60c89b23ab3cde",
+  "notes": "v1.9.57: Whisper в разы быстрее — убраны скрытые beam_size=5 и повторное определение языка; добавлен Whisper Medium"
 }
