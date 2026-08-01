@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.52",
-  "name": "PandaVoiceApp-v1.9.52-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.52/PandaVoiceApp-v1.9.52-update.zip",
-  "sha256": "c2de6694f8f45a41b21acf95af22a7d1e721647b46b7ce6606bc4dbc4b7f71de",
-  "notes": "v1.9.52: пересборка релиза без случайных .whl в архивах"
+  "version": "v1.9.53",
+  "name": "PandaVoiceApp-v1.9.53-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.53/PandaVoiceApp-v1.9.53-update.zip",
+  "sha256": "5eeb3071297eb5bc896a9583b7e8929ddac7cdcd273cea0fe3f702315cc1a09d",
+  "notes": "v1.9.53: повторный запуск открывает окно работающей копии"
 }
