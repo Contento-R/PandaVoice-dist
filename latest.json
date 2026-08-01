@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.45",
-  "name": "PandaVoiceApp-v1.9.45-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.45/PandaVoiceApp-v1.9.45-update.zip",
-  "sha256": "c8022ee64210098ce601c20e13054edbc2c8321c399dd34717bac0e7d0239f84",
-  "notes": "v1.9.45: найдена настоящая причина ложной ошибки про libportaudio"
+  "version": "v1.9.46",
+  "name": "PandaVoiceApp-v1.9.46-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.46/PandaVoiceApp-v1.9.46-update.zip",
+  "sha256": "15c19dabfce731bd9a967f92af8197d8bbe4560064c7b63c8fdd6c89f630ab65",
+  "notes": "v1.9.46: комбинации горячих клавиш на Linux"
 }
