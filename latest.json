@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.38",
-  "name": "PandaVoiceApp-v1.9.38-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.38/PandaVoiceApp-v1.9.38-update.zip",
-  "sha256": "2dd46c654f76cda0518476c73ba7d05e2e50c6280d5ecd8c188f2be26f5f0dd3",
-  "notes": "v1.9.38: пароль для аккаунтов, заведённых быстрым входом"
+  "version": "v1.9.39",
+  "name": "PandaVoiceApp-v1.9.39-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.39/PandaVoiceApp-v1.9.39-update.zip",
+  "sha256": "c8ba62da3ef88367dcc4208fec2b55b36d02e9cdb4fa6a236838b39d1280d343",
+  "notes": "v1.9.39: в быстром входе остаётся только Google"
 }
