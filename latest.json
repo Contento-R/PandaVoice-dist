@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.51",
-  "name": "PandaVoiceApp-v1.9.51-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.51/PandaVoiceApp-v1.9.51-update.zip",
-  "sha256": "5e0ce82774477194d1352a8a00068f44692b664676a01215a8da24e3d87b0cd2",
-  "notes": "v1.9.51: Linux — Аура запускается, клавиши настраиваются"
+  "version": "v1.9.52",
+  "name": "PandaVoiceApp-v1.9.52-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.52/PandaVoiceApp-v1.9.52-update.zip",
+  "sha256": "c2de6694f8f45a41b21acf95af22a7d1e721647b46b7ce6606bc4dbc4b7f71de",
+  "notes": "v1.9.52: пересборка релиза без случайных .whl в архивах"
 }
