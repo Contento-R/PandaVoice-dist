@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.32",
-  "name": "PandaVoiceApp-v1.9.32-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.32/PandaVoiceApp-v1.9.32-update.zip",
-  "sha256": "1753874dcbd8a8fb01624dca4f5a402f190ad1c8f42172fc0c8210f0eaaf1a5b",
-  "notes": "v1.9.32: Ctrl+C без модификаторов + стирание как запасной путь замены"
+  "version": "v1.9.33",
+  "name": "PandaVoiceApp-v1.9.33-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.33/PandaVoiceApp-v1.9.33-update.zip",
+  "sha256": "19e6396a33c2bb62cadff3c2e0f1acf3e95936bfdecd9e3e474c737bed9bf326",
+  "notes": "v1.9.33: проба выделения одним символом + кнопка тех. журнала"
 }
