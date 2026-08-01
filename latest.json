@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.27",
-  "name": "PandaVoiceApp-v1.9.27-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.27/PandaVoiceApp-v1.9.27-update.zip",
-  "sha256": "c3ff1f345e8b22a78c723ab6067f2ac5f87c8f40faec2a7a9f2fd70cf8e10984",
-  "notes": "v1.9.27: измеримая динамика обучения + перенос всей классики в Ауру"
+  "version": "v1.9.28",
+  "name": "PandaVoiceApp-v1.9.28-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.28/PandaVoiceApp-v1.9.28-update.zip",
+  "sha256": "67f2134b1681b190c8e5717f59815887466c6a5ffc64ee8f39c650e0ea3c4ad1",
+  "notes": "v1.9.28: окно правки F8 (шрифт, размер, границы) + синхронизация рабочих мест"
 }
