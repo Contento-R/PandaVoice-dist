@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.28",
-  "name": "PandaVoiceApp-v1.9.28-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.28/PandaVoiceApp-v1.9.28-update.zip",
-  "sha256": "67f2134b1681b190c8e5717f59815887466c6a5ffc64ee8f39c650e0ea3c4ad1",
-  "notes": "v1.9.28: окно правки F8 (шрифт, размер, границы) + синхронизация рабочих мест"
+  "version": "v1.9.29",
+  "name": "PandaVoiceApp-v1.9.29-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.29/PandaVoiceApp-v1.9.29-update.zip",
+  "sha256": "497e93976f968b9b35021c5abaddc733696c13b74f39dd13bda3c2e0ef4697d3",
+  "notes": "v1.9.29: исправлена причина несрабатывающей вставки после правки F8"
 }
