@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.41",
-  "name": "PandaVoiceApp-v1.9.41-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.41/PandaVoiceApp-v1.9.41-update.zip",
-  "sha256": "4947efd3c953ef93f14bdff692d1f6bd2719e7f0171bd867406a04b573ce605c",
-  "notes": "v1.9.41: досылка после обучения и быстрый повтор при сбое"
+  "version": "v1.9.42",
+  "name": "PandaVoiceApp-v1.9.42-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.42/PandaVoiceApp-v1.9.42-update.zip",
+  "sha256": "b3a1f2180b718965111830eb9d51f4c2509966c41db8dc2caac00cbb2e541e17",
+  "notes": "v1.9.42: досылка после обучения убрана по решению оператора"
 }
