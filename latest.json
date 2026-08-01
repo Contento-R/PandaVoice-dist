@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.48",
-  "name": "PandaVoiceApp-v1.9.48-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.48/PandaVoiceApp-v1.9.48-update.zip",
-  "sha256": "a132150d4868462304acb080ccbd109a6c5642614dea2acf61a6ce3bdd175e8f",
-  "notes": "v1.9.48: install.sh заранее проверяет заголовки Python и компилятор"
+  "version": "v1.9.51",
+  "name": "PandaVoiceApp-v1.9.51-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.51/PandaVoiceApp-v1.9.51-update.zip",
+  "sha256": "5e0ce82774477194d1352a8a00068f44692b664676a01215a8da24e3d87b0cd2",
+  "notes": "v1.9.51: Linux — Аура запускается, клавиши настраиваются"
 }
