@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.31",
-  "name": "PandaVoiceApp-v1.9.31-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.31/PandaVoiceApp-v1.9.31-update.zip",
-  "sha256": "0ba208b7b39e62c764782dac64e74bc83ad26bb55d221403cfe303f4d1d97f77",
-  "notes": "v1.9.31: замена в браузере — опрос буфера вместо фиксированных 150 мс"
+  "version": "v1.9.32",
+  "name": "PandaVoiceApp-v1.9.32-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.32/PandaVoiceApp-v1.9.32-update.zip",
+  "sha256": "1753874dcbd8a8fb01624dca4f5a402f190ad1c8f42172fc0c8210f0eaaf1a5b",
+  "notes": "v1.9.32: Ctrl+C без модификаторов + стирание как запасной путь замены"
 }
