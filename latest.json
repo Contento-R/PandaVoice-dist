@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.55",
-  "name": "PandaVoiceApp-v1.9.55-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.55/PandaVoiceApp-v1.9.55-update.zip",
-  "sha256": "d3123e53937f7b12ecf2ad0d9cf7790810ead00602db3c7ca9f102942aa2a67d",
-  "notes": "v1.9.55: антидребезг комбинации хоткея на Linux"
+  "version": "v1.9.56",
+  "name": "PandaVoiceApp-v1.9.56-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.56/PandaVoiceApp-v1.9.56-update.zip",
+  "sha256": "48b9f758f7027f41e4859ae7083931485242cd7062fed57cb0d92677fcd5ec23",
+  "notes": "v1.9.56: перезапуск снова работает + модель Whisper Small для слабых машин"
 }
