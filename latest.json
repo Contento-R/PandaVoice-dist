@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.58",
-  "name": "PandaVoiceApp-v1.9.58-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.58/PandaVoiceApp-v1.9.58-update.zip",
-  "sha256": "93a91d4418ef98ec0efded95bfb9bfe538d092001d628f3d63a74f2dd6dfba13",
-  "notes": "v1.9.58: обновление не зависит от кодовой страницы консоли; кнопка «Обновление» в шапке Ауры"
+  "version": "v1.9.59",
+  "name": "PandaVoiceApp-v1.9.59-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.59/PandaVoiceApp-v1.9.59-update.zip",
+  "sha256": "84332da64162fd0e6d5a493f90876db1373e684cafaab8ae01e0bb5c60d55fef",
+  "notes": "v1.9.59: звук старта, «?» по фразе, речевой профиль, одиночный Alt, премиум-оверлей (#25)"
 }
