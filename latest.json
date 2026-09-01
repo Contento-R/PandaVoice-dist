@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.60",
-  "name": "PandaVoiceApp-v1.9.60-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.60/PandaVoiceApp-v1.9.60-update.zip",
-  "sha256": "5d9f8bfa85caca193c799e6f71cd97a16b4adc782a7ad38bc268b9595d0073f5",
-  "notes": "v1.9.60: строгий словарь, мат без цензуры, явный словарь — первым в подсказке (#26)"
+  "version": "v1.9.61",
+  "name": "PandaVoiceApp-v1.9.61-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.61/PandaVoiceApp-v1.9.61-update.zip",
+  "sha256": "fec99c2e90576d149f9153790699bed83fcca36db59633a05ac57cc2b9d88872",
+  "notes": "v1.9.61: «Мат без цензуры» включён по умолчанию (#27)"
 }
