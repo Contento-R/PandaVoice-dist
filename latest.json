@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.59",
-  "name": "PandaVoiceApp-v1.9.59-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.59/PandaVoiceApp-v1.9.59-update.zip",
-  "sha256": "84332da64162fd0e6d5a493f90876db1373e684cafaab8ae01e0bb5c60d55fef",
-  "notes": "v1.9.59: звук старта, «?» по фразе, речевой профиль, одиночный Alt, премиум-оверлей (#25)"
+  "version": "v1.9.60",
+  "name": "PandaVoiceApp-v1.9.60-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.60/PandaVoiceApp-v1.9.60-update.zip",
+  "sha256": "5d9f8bfa85caca193c799e6f71cd97a16b4adc782a7ad38bc268b9595d0073f5",
+  "notes": "v1.9.60: строгий словарь, мат без цензуры, явный словарь — первым в подсказке (#26)"
 }
