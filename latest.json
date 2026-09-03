@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.61",
-  "name": "PandaVoiceApp-v1.9.61-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.61/PandaVoiceApp-v1.9.61-update.zip",
-  "sha256": "fec99c2e90576d149f9153790699bed83fcca36db59633a05ac57cc2b9d88872",
-  "notes": "v1.9.61: «Мат без цензуры» включён по умолчанию (#27)"
+  "version": "v1.9.62",
+  "name": "PandaVoiceApp-v1.9.62-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.62/PandaVoiceApp-v1.9.62-update.zip",
+  "sha256": "8ccca8b92a02c2e72ec7656583ee27b56e6641461479c96a264d34f12a83d827",
+  "notes": "v1.9.62: обучение на правках прямо в поле (без F8) (#28)"
 }
