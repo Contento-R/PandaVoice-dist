@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.62",
-  "name": "PandaVoiceApp-v1.9.62-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.62/PandaVoiceApp-v1.9.62-update.zip",
-  "sha256": "8ccca8b92a02c2e72ec7656583ee27b56e6641461479c96a264d34f12a83d827",
-  "notes": "v1.9.62: обучение на правках прямо в поле (без F8) (#28)"
+  "version": "v1.9.63",
+  "name": "PandaVoiceApp-v1.9.63-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.63/PandaVoiceApp-v1.9.63-update.zip",
+  "sha256": "2bb986e6a0f49545cd13879d1886c2cd795c483de0e770fbfdb6a24862450a50",
+  "notes": "v1.9.63: аудит обучения — закрыты 6 дыр, конвейер самообучения честный (#29)"
 }
