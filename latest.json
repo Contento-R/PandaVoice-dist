@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.65",
-  "name": "PandaVoiceApp-v1.9.65-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.65/PandaVoiceApp-v1.9.65-update.zip",
-  "sha256": "f4f29c08c4b2fb010b2449549d9fb54a5618575ee936fecc4146eb61691832e7",
-  "notes": "v1.9.65: выжать накопленные записи — очередь подряд, повторная перепроверка, модель-учитель (#31)"
+  "version": "v1.9.66",
+  "name": "PandaVoiceApp-v1.9.66-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.66/PandaVoiceApp-v1.9.66-update.zip",
+  "sha256": "dbe5f25ed7fab440659c8f0ee0eee352abfa627b8fa1fd07773259c9f7077386",
+  "notes": "v1.9.66: иконка-панда, шапка окна в цвет фона, симметричная главная, порядок в настройках (#32)"
 }
