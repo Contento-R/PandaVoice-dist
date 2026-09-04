@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.67",
-  "name": "PandaVoiceApp-v1.9.67-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.67/PandaVoiceApp-v1.9.67-update.zip",
-  "sha256": "cf46796675d76a557025d78cf7e4586bc65f1667da39cc6cc4a8df1396f89a10",
-  "notes": "v1.9.67: установщик одним файлом, схлопывание зацикливания, уведомления не висят часами (#33)"
+  "version": "v1.9.68",
+  "name": "PandaVoiceApp-v1.9.68-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.68/PandaVoiceApp-v1.9.68-update.zip",
+  "sha256": "40c2f3c34922b310deddb4a8fe667256a1538297c4771281e6b6d470b2681d13",
+  "notes": "v1.9.68: установщик .exe реально собирается — права на каталог сборки (#34)"
 }
