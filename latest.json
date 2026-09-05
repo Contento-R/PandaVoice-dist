@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.69",
-  "name": "PandaVoiceApp-v1.9.69-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.69/PandaVoiceApp-v1.9.69-update.zip",
-  "sha256": "24612fa5181a0919546ed1c6e93de90889e1cad1a73f7e884125ae9581af0cb2",
-  "notes": "v1.9.69: ослышка «токин» лечится сама — словарь языка отличает её от склонения"
+  "version": "v1.9.70",
+  "name": "PandaVoiceApp-v1.9.70-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.70/PandaVoiceApp-v1.9.70-update.zip",
+  "sha256": "7df8e76722df8dc07ce7a8826ca2b0ba9f61c5401dfa91f8901541181c08baa9",
+  "notes": "v1.9.70: знак на шве потоковых кусков решает модель пунктуации Silero TE"
 }
