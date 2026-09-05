@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.68",
-  "name": "PandaVoiceApp-v1.9.68-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.68/PandaVoiceApp-v1.9.68-update.zip",
-  "sha256": "40c2f3c34922b310deddb4a8fe667256a1538297c4771281e6b6d470b2681d13",
-  "notes": "v1.9.68: установщик .exe реально собирается — права на каталог сборки (#34)"
+  "version": "v1.9.69",
+  "name": "PandaVoiceApp-v1.9.69-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.69/PandaVoiceApp-v1.9.69-update.zip",
+  "sha256": "24612fa5181a0919546ed1c6e93de90889e1cad1a73f7e884125ae9581af0cb2",
+  "notes": "v1.9.69: ослышка «токин» лечится сама — словарь языка отличает её от склонения"
 }
