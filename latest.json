@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.73",
-  "name": "PandaVoiceApp-v1.9.73-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.73/PandaVoiceApp-v1.9.73-update.zip",
-  "sha256": "4dc466a6248fc69d1c6084e217d84eb4c17663b9e0539bb59abe740adbcf1069",
-  "notes": "v1.9.73: подсказка по бюджету + hotwords, замер качества на своих записях (#37)"
+  "version": "v1.9.74",
+  "name": "PandaVoiceApp-v1.9.74-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.74/PandaVoiceApp-v1.9.74-update.zip",
+  "sha256": "46990033894feed79e59b4b866c9bd4cdd4b460db3b32344ecac010e900e2af2",
+  "notes": "v1.9.74: движок GigaAM — модель, обученная на русской речи (#38)"
 }
