@@ -1,7 +1,7 @@
 {
-  "version": "v1.9.72",
-  "name": "PandaVoiceApp-v1.9.72-update.zip",
-  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.72/PandaVoiceApp-v1.9.72-update.zip",
-  "sha256": "6df4992fcdb644ebae270d9e57535f18b51978a065072a2e56240194d529a197",
-  "notes": "v1.9.72: кнопка «Перепроверить» — распознать запись заново и выучить разницу (#36)"
+  "version": "v1.9.73",
+  "name": "PandaVoiceApp-v1.9.73-update.zip",
+  "url": "https://github.com/Contento-R/PandaVoice-dist/releases/download/v1.9.73/PandaVoiceApp-v1.9.73-update.zip",
+  "sha256": "4dc466a6248fc69d1c6084e217d84eb4c17663b9e0539bb59abe740adbcf1069",
+  "notes": "v1.9.73: подсказка по бюджету + hotwords, замер качества на своих записях (#37)"
 }
